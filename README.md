@@ -11,8 +11,7 @@ A cross-platform tool for creating and managing virtual machines using various v
 - Both GUI and command-line interfaces
 
 ## Screenshots
-
-![VM Manager GUI](https://github.com/yourusername/windows-vm-manager/raw/main/screenshots/gui.png)
+![image](https://github.com/user-attachments/assets/b8a45cba-20d5-4952-8bbd-bd003fa40c8d)
 
 ## Requirements
 
@@ -27,8 +26,11 @@ You'll also need:
 - PyQt5 (for the GUI)
 - A Windows installation ISO file
 
-## Installation
-
 ## Usage
-
-### Command Line Interface
+  
+   ```bash
+   python3 main.py
+   ```
+  
+### Contribution
+   by Kcyb3r ♡
