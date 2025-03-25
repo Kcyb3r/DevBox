@@ -1,6 +1,6 @@
-# Virtual Machine Manager
+# Devbox - Virtual Machine Manager
 
-A cross-platform tool for creating and managing Windows virtual machines using various virtualization technologies.
+A cross-platform tool for creating and managing virtual machines using various virtualization technologies.
 
 ## Features
 
